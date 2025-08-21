@@ -72,12 +72,4 @@ The model achieves high accuracy on the Iris dataset by combining multiple class
 - Deploy the model with Flask/Django or Streamlit.  
 - Experiment with more ensemble techniques like Bagging/Boosting.  
 
----
-
-## 🤝 Contributing
-Pull requests are welcome! Feel free to fork this repo, improve the model, and submit a PR.  
-
----
-
-## 📜 License
-This project is licensed under the MIT License.  
+  
